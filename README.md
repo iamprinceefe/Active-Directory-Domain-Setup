@@ -30,7 +30,11 @@ Set up VirtualBox and Windows Server Configuration: <br/>
 <img src="https://i.imgur.com/ysfJ0OW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Create User:  <br/>
+Install Windows Server:  <br/>
+<img src="https://i.imgur.com/sfP0lJI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+After Installation is complete, create a User:  <br/>
 <img src="https://i.imgur.com/v6f6Vue.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
