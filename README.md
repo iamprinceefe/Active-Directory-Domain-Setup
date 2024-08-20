@@ -38,7 +38,7 @@ After Installation is complete, create a User:  <br/>
 <img src="https://i.imgur.com/v6f6Vue.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Setup Complete:  <br/>
+Login:  <br/>
 <img src="https://i.imgur.com/ZivFvVy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
